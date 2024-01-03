@@ -15,8 +15,10 @@ def get_requirements()->List[str]:
         requirement_list.remove(HYPHEN_E_DOT)
     return requirement_list
 
-setup( 
-     name="sensor",
+
+
+setup(
+    name="sensor",
     version="0.0.2",
     author="tanishq",
     author_email="soodtanishq98@gmail.com",
