@@ -14,6 +14,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
+<<<<<<< HEAD
 
 To download your dataset
 
@@ -99,3 +100,8 @@ ECR_REPOSITORY_NAME=
 BUCKET_NAME=
 MONGO_DB_URL=
 ```
+=======
+# To download your dataset
+
+wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+>>>>>>> 90f79b0b6efda0db99529cad26fe1bf44b8d76f7
